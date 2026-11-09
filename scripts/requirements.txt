@@ -1,0 +1,7 @@
+# Daily heatmap refresh (used by .github/workflows/update-profile-art.yml)
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait-only, local use — not needed by the daily workflow:
+# pillow
+# numpy
