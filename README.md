@@ -3,6 +3,11 @@
 <h3><code>ayush@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" />
+<br><br>
+
+<h3><code>ayush@github ~ $ ./play.sh</code></h3>
+
+<img src="./assets/space-shooter.gif" width="860" />
 
 <br><br>
 
