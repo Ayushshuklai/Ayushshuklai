@@ -3,6 +3,7 @@
 <h3><code>ayush@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" />
+
 <br><br>
 
 <h3><code>ayush@github ~ $ ./play.sh</code></h3>
@@ -42,12 +43,10 @@ First-principles thinking. Rapid experimentation. Honest evaluation.
 
 ## Flagship project
 
-### finance-ai-agents — launching soon as my first public repo
+### [Arthon](https://github.com/Ayushshuklai/arthon) — my first public project
 A multi-agent quantitative stock research system: Analyst, Forecast, Risk and Decision agents analyse a stock independently, state their evidence, disagree openly, and combine into one traceable rating — with backtesting, asset-aware transaction costs, and walk-forward evaluation of the forecast method itself.
 
 *Educational research — not financial advice. Losses and failures are published alongside wins.*
-
-<!-- Link the repo name above once it is published. Pin this repo #1 once launched. Add its forecast-cone chart here. -->
 
 ## My research library — Starred Lists
 
